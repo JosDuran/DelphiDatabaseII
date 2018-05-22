@@ -1,1 +1,1 @@
-# Database access at runtime getDataset and ExecuteSQL and FreeDataset.
+# Delphi Database access at runtime getDataset and ExecuteSQL and FreeDataset.
