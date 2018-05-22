@@ -1,1 +1,1 @@
-# Database access at runtime getDataset and executescripts.
+# Database access at runtime getDataset and ExecuteSQL and FreeDataset.
